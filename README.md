@@ -1,5 +1,5 @@
-# SistemCar-com-Laravel-Api-e-Vue-Client-
-  Sistema desenvolvido como objetivo de estudo, utilizando as stacks Vue js 3 consumindo uma Api laravel 8 Rest com JWT.
+# SistemCar Client com Vue js 3
+Sistema desenvolvido como objetivo de estudo, utilizando as stacks Vue js 3 consumindo uma Api laravel 8 Rest com JWT.
       
       Contem as seguintes funcionalidades:
       - Login e armazenamento de token via cookie.
@@ -67,4 +67,7 @@
   - Aplicação de teste automatizados.
    
   
+# Teste local
+  Realize o download ou clone e execute o comando npm run serve.
+  Caso aconteça algum erro tente npm install ou npm update.
   
