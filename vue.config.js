@@ -1,5 +1,13 @@
-module.exports = {
+  module.exports = {
   devServer: {
-    proxy: 'https://sistemcarback.herokuapp.com/'
-  }
+    proxy: {    
+        '/api': {
+            target: 'https://sistemcarback.herokuapp.com',
+            changeOrigin: true,
+            pathRewrite: {
+              '^/api': ''
+            },
+        },
+    },
+    },
 }
