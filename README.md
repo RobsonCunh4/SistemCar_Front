@@ -68,6 +68,6 @@ Sistema desenvolvido como objetivo de estudo, utilizando as stacks Vue js 3 cons
    
   
 # Teste local
-  Realize o download ou clone e execute o comando npm run serve.
-  Caso aconteça algum erro tente npm install ou npm update.
+  Realize o download ou clone e execute o comando: npm run serve.
+  Caso aconteça algum erro tente os comandos: npm install ou npm update.
   
