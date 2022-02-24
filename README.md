@@ -37,6 +37,13 @@
 # O sistema se encontra no online através da plataforma Heroku
    Link de acesso ao cliente: <a href="https://sistemcarfront.herokuapp.com/">SistemCar com Vue JS 3</a>   
    Link de acesso a Api rest: <a href="https://sistemcarback.herokuapp.com/">Api Rest Laravel 8 com JWT</a>
+   
+   Observação: atualmente em manutenção sendo realizado ajuste cors em cadastro clientes e carros,
+                porém pode-se realizar o acesso para ter uma visão geral.
+                
+                usuário de teste:
+                   login: novousuario@gmail.com
+                   senha: novousuario
     
     
     
